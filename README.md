@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Alaina Maria Joe  
-- 🌱 I’m working on improving my programming skills and exploring Data Science.  
-- 📫 Reach me at: alainamariajoe33@gmail.com
-- 🎨 I love being creative and enjoy drawing.   
+- 👋 Hey, I’m Alaina Maria Joe  
+- 📊 Enthusiastic about working with Data to uncover patterns and insights.  
+- 👀 Interested in: Data Analytics • Business Analytics • Data Science
+- 🎨 Also into art and design - creativity keeps me balanced.
+- 📫 Contact me : alainamariajoe33@gmail.com
  
+
 
 <!---
 AlainaMariaJoe/AlainaMariaJoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
